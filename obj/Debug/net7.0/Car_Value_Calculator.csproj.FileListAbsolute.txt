@@ -1,0 +1,15 @@
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/bin/Debug/net7.0/Car_Value_Calculator
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/bin/Debug/net7.0/Car_Value_Calculator.deps.json
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/bin/Debug/net7.0/Car_Value_Calculator.runtimeconfig.json
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/bin/Debug/net7.0/Car_Value_Calculator.dll
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/bin/Debug/net7.0/Car_Value_Calculator.pdb
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/obj/Debug/net7.0/Car_Value_Calculator.csproj.AssemblyReference.cache
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/obj/Debug/net7.0/Car_Value_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/obj/Debug/net7.0/Car_Value_Calculator.AssemblyInfoInputs.cache
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/obj/Debug/net7.0/Car_Value_Calculator.AssemblyInfo.cs
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/obj/Debug/net7.0/Car_Value_Calculator.csproj.CoreCompileInputs.cache
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/obj/Debug/net7.0/Car_Value_Calculator.dll
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/obj/Debug/net7.0/refint/Car_Value_Calculator.dll
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/obj/Debug/net7.0/Car_Value_Calculator.pdb
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/obj/Debug/net7.0/Car_Value_Calculator.genruntimeconfig.cache
+/Users/daanverbeek/Documents/Fontys/Start_Semester/Software/Trainingen/Car_Value_Calculator/Car_Value_Calculator/obj/Debug/net7.0/ref/Car_Value_Calculator.dll
